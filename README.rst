@@ -7,9 +7,9 @@ Roboarm
 .. image:: https://coveralls.io/repos/nvbn/roboarm/badge.png?branch=master
    :alt: Coverage Status
    :target: https://coveralls.io/r/nvbn/roboarm
-.. image:: https://pypip.in/v/roboarm/badge.png
+.. image:: https://img.shields.io/pypi/v/roboarm.svg
    :target: https://crate.io/packages/roboarm/
-.. image:: https://pypip.in/d/roboarm/badge.png
+.. image:: https://img.shields.io/pypi/dm/roboarm.svg
    :target: https://crate.io/packages/roboarm/
 .. image:: https://goo.gl/xnKADy
    :target: http://coviolations.io/projects/nvbn/roboarm/
